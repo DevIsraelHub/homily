@@ -13,8 +13,8 @@ import ClientOnly from './components/ClientOnly';
 import getCurrentUser from './actions/getCurrentUser';
 
 export const metadata = {
-  title: 'Homme | House Rental Service the best Airbnb alternative',
-  description: 'Homme is house rental service by the people and for the people, the best Airbnb alternative',
+  title: 'Homily | House Rental Service the best Airbnb alternative',
+  description: 'Homily is house rental service by the people and for the people, the best Airbnb alternative',
 }
 
 const font = Nunito({

@@ -1,4 +1,4 @@
-# "Homme" A Full Stack Home Rental service project with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
+# "Homily" A Full Stack Home Rental service project with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
 
 Features:
 
